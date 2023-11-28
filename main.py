@@ -7,7 +7,7 @@ import time, copy
 
 import torch
 # from matplotlib import pyplot as plt
-from opencv_python import cv2
+from opencv-python import cv2
 # import shutil, os
 
 # load class names
