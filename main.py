@@ -3,11 +3,11 @@ from PIL import Image
 import numpy as np
 import pandas as pd
 import time, copy
-#from util import classify, set_background
+# from util import classify, set_background
 
 import torch
 # from matplotlib import pyplot as plt
-import cv2
+# import cv2
 # import shutil, os
 
 # load class names
