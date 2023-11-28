@@ -4,4 +4,5 @@ Pillow==10.1.0
 streamlit==1.28.0
 torch==2.1.0
 opencv-python-headless==4.8.1.78
+opencv-contrib-python
 ultralytics==8.0.202
